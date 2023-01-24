@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+.main {
+  background: linear-gradient(350deg, rgb(240, 206, 255), rgb(217, 247, 255));
+  min-height: 100vh;
+  padding: 135px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.heading {
+    font-size: 50px;
+    color: #6565bd;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
